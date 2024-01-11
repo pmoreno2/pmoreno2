@@ -1,7 +1,7 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Pedro Moreno 👋
+# Hola, mi nombre es Pedro Moreno 👋
 ### Freelance full-stack iOS & Android engineer & DIOS en el Emili
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/mouredev](https://img2.europapress.es/fotoweb/fotonoticia_20100528134808_260.jpg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
