@@ -1,5 +1,5 @@
 # Hola, mi nombre es Pedro Moreno 👋
-### Freelance full-stack iOS & Android engineer & DIOS en el Emili
+### Profesor IES Emili Darder & experto en Sistemas, servidores y entornos de programación
 
 ![https://github.com/mouredev](https://img2.europapress.es/fotoweb/fotonoticia_20100528134808_260.jpg)
 
