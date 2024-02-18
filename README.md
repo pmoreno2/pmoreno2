@@ -1,5 +1,5 @@
 # Hola, mi nombre es Pedro Moreno 👋
-### Profesor IES Emili Darder & experto en Sistemas, servidores y entornos de programación
+### Profesor IES Emili Darder & apasionado en sistemas, servidores y entornos de programación
 
 ![https://github.com/mouredev](https://img2.europapress.es/fotoweb/fotonoticia_20100528134808_260.jpg)
 
@@ -10,7 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de la NASA desde hace más de 100 años.
+Soy ingeniero de telecomunicaciones desde hace más de 20 años.
 
 En 2014 dejé mi trabajo en una multinacional y creé [**pmoreno2**](https://www.marca.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
